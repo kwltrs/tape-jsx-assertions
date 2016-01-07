@@ -1,0 +1,29 @@
+{
+  "name": "@kwltrs/tape-jsx-assertions",
+  "version": "0.0.0",
+  "description": "t.jsxEqual and t.jsxIncludes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwltrs/tape-jsx-assertions.git"
+  },
+  "keywords": [
+    "tape",
+    "jsx"
+  ],
+  "author": "Kristofer Walters <kris@wltrs.org>",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/kwltrs/tape-jsx-assertions/issues"
+  },
+  "homepage": "https://github.com/kwltrs/tape-jsx-assertions#readme",
+  "dependencies": {
+    "collapse-white-space": "^1.0.0",
+    "defined": "^1.0.0",
+    "react": "^0.14.6",
+    "react-element-to-jsx-string": "^2.1.5"
+  }
+}
