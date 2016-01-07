@@ -52,6 +52,6 @@ test('MyThingie', (t) {
 ### t.jsxNotIncludes(actual, expected, msg)
 
 
-## License
+# License
 
-Beerware
+[Fair License](http://opensource.org/licenses/Fair)
